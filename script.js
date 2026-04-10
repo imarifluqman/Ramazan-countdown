@@ -1,5 +1,5 @@
 function updateCountdown() {
-      const ramzanDate = moment("2026-02-17 00:00:00");
+      const ramzanDate = moment("2027-02-07 00:00:00");
         const now = moment();
           const diff = moment.duration(ramzanDate.diff(now));
 
